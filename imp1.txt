@@ -1,0 +1,6 @@
+Steps to contribute codes :-
+
+1. Make one separate branch.
+2. Write your correct code in that.
+3. Commit these codes with message in which you will mention your files and function names.
+4. Push Code and done.
