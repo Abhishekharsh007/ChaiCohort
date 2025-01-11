@@ -4,6 +4,6 @@ Git is a version control system VCS designed to track changes in source code and
 
 # Popular VCS Tools:
 1. Git :- The most widely used DVCS; supports branching and distributed workflows.
-2. Subversion :- SVN A CVCS used in enterprise applications.
+2. Subversion (SVN) :- A CVCS used in enterprise applications.
 3. Mercurial :- Another DVCS, simpler than Git in some aspects.
 4. Perforce :- A CVCS often used for large-scale enterprise projects.
